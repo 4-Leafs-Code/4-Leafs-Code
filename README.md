@@ -1,4 +1,12 @@
-### Hi there 👋
+![](https://raw.githubusercontent.com/4-Leafs-Code/4-Leafs-Code/main/CelticClover.webp)    
+
+# Welcome to 4 Leafs Code!   
+  
+### Check out my repos!
+
+
+
+
 
 <!--
 **4-Leafs-Code/4-Leafs-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

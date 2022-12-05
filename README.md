@@ -1,8 +1,8 @@
 ![](https://raw.githubusercontent.com/4-Leafs-Code/4-Leafs-Code/main/CelticClover.webp)    
-
+###
 # Welcome to 4 Leafs Code!   
-  
-### Check out my repos!
+  ##
+### Luck = [Doing Things] * [Telling People]
 
 
 

@@ -1,12 +1,3 @@
-![](https://raw.githubusercontent.com/4-Leafs-Code/4-Leafs-Code/main/CelticClover.webp)    
-###
-# Welcome to 4 Leafs Code!   
-  ##
-### Luck = [Doing Things] * [Telling People]
-
-
-
-
 <div align="center" >
  
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
@@ -14,12 +5,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Clover+Baxter;4-Leafs-Code;a+Jr+Fullstack+Developer;a+Computer+Technology+Student)](https://git.io/typing-svg)
  
  </div>
-
-
- 
+<br>
+### Luck = [Doing Things] * [Telling People]
+<br> 
 
 ### :man_technologist: I'm 4-Leafs-Code and I'm interested in Web and Software development.    
-I am a Computer Technology student with a Mentorship from ![Project Reclass](https://www.projectreclass.org/)
+I am a Computer Technology student with a Mentorship from [Project Reclass](https://www.projectreclass.org/)
 
 <br>
 <br>
@@ -28,18 +19,14 @@ I am a Computer Technology student with a Mentorship from ![Project Reclass](htt
 
 <br>
 <br>
-<h2>Skills</h2>
+<h2>.   Skills</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,pycharm,intellijidea,sublime,SQLAlchemy,Firebase," />
+    <img src="https://skillicons.dev/icons?i=git,vscode,flask,react,html,css,js,bootstrap" />
   </a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=Nodejs,flask,pygame,turtle,react,html,css,js,chakra,bootstrap" />
-  </a>
-</p>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 

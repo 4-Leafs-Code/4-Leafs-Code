@@ -12,9 +12,12 @@
 <br> 
 
 ### :man_technologist: I'm 4-Leafs-Code and I'm interested in Web and Software development.    
-I am a Computer Technology student with a Mentorship from [Project Reclass](https://www.projectreclass.org/)
+I am a Computer Technology student with a Mentorship from [Project Reclass.](https://www.projectreclass.org/)  
+<br>   
 
-<br>
+🔭 I’m currently working on building and deploying a netwoking site for Maines prisoner reentry resources  
+affiliates to be able to connect and colaborate.
+
 <br>
 
 <img align='left' height='160' style="margin-left:20px" src='assets/codingChick.gif' alt='Skills'>
@@ -32,7 +35,6 @@ I am a Computer Technology student with a Mentorship from [Project Reclass](http
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
-<>
  <h2>Git Statistics</h2>
  
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
@@ -43,7 +45,6 @@ I am a Computer Technology student with a Mentorship from [Project Reclass](http
  </div>
  
  
- </>
 
 <!--
 **4-Leafs-Code/4-Leafs-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

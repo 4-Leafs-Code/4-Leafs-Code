@@ -32,8 +32,8 @@ I am a Computer Technology student with a Mentorship from [Project Reclass](http
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
-<details >
-  <b>Git Statistics</b>
+<>
+ <h2>Git Statistics</h2>
  
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
  
@@ -43,7 +43,7 @@ I am a Computer Technology student with a Mentorship from [Project Reclass](http
  </div>
  
  
- </details>
+ </>
 
 <!--
 **4-Leafs-Code/4-Leafs-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

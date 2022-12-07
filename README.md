@@ -32,8 +32,8 @@ I am a Computer Technology student with a Mentorship from [Project Reclass](http
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
-<details close="false">
-  <summary><b>:gear: &nbsp;Git statistics</b></summary>
+<details >
+  <summary><b>:Git Statistics</b></summary>
 
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
  

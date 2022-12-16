@@ -12,11 +12,15 @@
 <br> 
 
 ### :man_technologist: I'm 4-Leafs-Code and I'm interested in Web and Software development.    
-I am a Computer Technology student with a Mentorship from [Project Reclass.](https://www.projectreclass.org/)  
+I am a Computer Technology student with a Mentorship from [Project Reclass.](https://www.projectreclass.org/).  
+I started to learn to program in March 2022 and discovered I have a niche for it.    
+I have learned/am learning UX\UI design, frontend, backend, databases, and cloud     
+networking. I am a Full Stack Developer.   
 <br>   
 
-🔭 I’m currently working on building and deploying a netwoking site for Maines prisoner reentry resources  
-affiliates to be able to connect and colaborate.
+🔭 I’m currently working on building and deploying a netwoking site for Maines prisoner reentry resource  
+advocates to be able to connect and colaborate. I'm looking for some help building the site if your intrested   
+check out the [Reentry Repo](https://github.com/4-Leafs-Code/Reentry).
 
 <br>
 
@@ -28,7 +32,7 @@ affiliates to be able to connect and colaborate.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,flask,react,html,css,js,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,js,react,redux,py,ts,css,sass,bootstrap,emotion,styledcomponents,flask,nodejs,azure,gcp,firebase,mysql,sqlite,git,vscode,figma,codepen,github,idea,powershell,stackoverflow,&perline=13" />
   </a>
 </p>
 

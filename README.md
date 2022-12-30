@@ -39,7 +39,8 @@ check out the [Reentry Repo](https://github.com/4-Leafs-Code/Reentry).
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
- <h2>Git Statistics</h2>
+<details>
+ <summary> :octocat: GitHub Statistics</summary>
  
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
  
@@ -48,7 +49,7 @@ check out the [Reentry Repo](https://github.com/4-Leafs-Code/Reentry).
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4-Leafs-Code&hide=html&layout=compact&theme=highcontrast" />
  </div>
  
- 
+ </details>
 
 <!--
 **4-Leafs-Code/4-Leafs-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

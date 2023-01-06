@@ -22,9 +22,14 @@ networking. I am a Full Stack Developer.
 advocates to be able to connect and colaborate. I'm looking for some help building the site if your intrested   
 check out the [Reentry Repo](https://github.com/4-Leafs-Code/Reentry).
 
+I am the owner of [FearlessTech](https://github.com/FearlessTech). My orginizations was built so all of the wonderfull 
+collaborators and contributors I've worked with can bring "for a good cause" project to the table. I'd like to continue 
+building projects that will improve the live of some group, somewhere in the world like I did with the startup repository, 
+Reentry. 
+
 <br>
 
-<img align='left' height='160' style="margin-left:20px" src='assets/codingChick.gif' alt='Skills'>
+<img align='left' height='160' style="margin:20px" src='assets/codingChick.gif' alt='Skills'>
 
 <br>
 <br>

@@ -49,6 +49,20 @@ group, somewhere in the world as I did with the startup repository, Reentry.
   </a>
 </p>
 
+<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
+
+<p align="center">
+    
+<a href="https://github.com/4-Leafs-Code/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=4-Leafs-Code">
+</a>
+    <a href="https://github.com/4-Leafs-Code?tab=followers">
+        <img src="https://img.shields.io/github/followers/4-Leafs-Code?label=Followers&style=social" alt="GitHub Badge">
+    </a>
+</p>
+
+<p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: 4-Leafs-Code Visitor's Count" /></p> 
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 

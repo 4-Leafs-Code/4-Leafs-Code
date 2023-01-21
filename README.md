@@ -49,6 +49,8 @@ group, somewhere in the world as I did with the startup repository, Reentry.
   </a>
 </p>
 
+
+
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
 
 <p align="center">
@@ -64,7 +66,12 @@ group, somewhere in the world as I did with the startup repository, Reentry.
 <p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: 4-Leafs-Code Visitor's Count" /></p> 
 
 
+
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
+
+
 
 <details>
  <summary> :octocat: GitHub Statistics</summary>
@@ -78,17 +85,4 @@ group, somewhere in the world as I did with the startup repository, Reentry.
  
  </details>
 
-<!--
-**4-Leafs-Code/4-Leafs-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://hit.yhype.me/github/profile?user_id=105990331)

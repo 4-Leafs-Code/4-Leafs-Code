@@ -1,8 +1,9 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
-<div align="center" >
+<div align="center" >  
+  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=I'm+Clover+Baxter;I'm+4-Leafs-Code;I'm+a+Co-Owner+of+FearlessTech;I'm+a+Jr+Fullstack+Developer;I'm+a+Computer+Technology+Student;I'm+a+Prisoner+in+Maine,+U.S.A.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=50&duration=4500&pause=1000&color=6B00FF&center=true&vCenter=true&width=835&height=60&lines=Hi!;I+am+Clover+Baxter;I'm+4+Leafs+Code;I'm+a+Co-Owner+of+FearlessTech;I'm+a+Jr+Full+Stack+Developer;I'm+a+Computer+Tech+Student;I'm+a+Prisoner+in+Maine%2C+USA;I+am+Availible+for+Hire" alt="Typing SVG" /></a>
 
 <h1>Luck = [Doing Things] * [Telling People]  </h1>
 </div>

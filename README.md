@@ -63,7 +63,7 @@ group, somewhere in the world as I did with the startup repository, Reentry.
     </a>
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: 4-Leafs-Code Visitor's Count" /></p> 
+
 
 
 

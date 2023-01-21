@@ -1,11 +1,12 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+<div>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient"/>
+</div>
 
 <div align="center" >  
-  
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=50&duration=4500&pause=1000&color=6B00FF&center=true&vCenter=true&width=835&height=60&lines=Hi!;I+am+Clover+Baxter;I'm+4+Leafs+Code;I'm+a+Co-Owner+of+FearlessTech;I'm+a+Jr+Full+Stack+Developer;I'm+a+Computer+Tech+Student;I'm+a+Prisoner+in+Maine%2C+USA;I+am+Availible+for+Hire" alt="Typing SVG" /></a>
-
-<h1>Luck = [Doing Things] * [Telling People]  </h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=50&duration=4500&pause=1000&color=6B00FF&center=true&vCenter=true&width=835&height=60&lines=Hi!;I+am+Clover+Baxter;I'm+4+Leafs+Code;I'm+a+Co-Owner+of+FearlessTech;I'm+a+Jr+Full+Stack+Developer;I'm+a+Computer+Tech+Student;I'm+a+Prisoner+in+Maine%2C+USA;I+am+Availible+for+Hire" alt="Typing SVG" /></a>
+</div>
+<div align="center" > 
+  <h1>Luck = [Doing Things] * [Telling People]</h1>
 </div>
 
 ### :man_technologist: I'm 4-Leafs-Code and I'm interested in Web and Software development. 
@@ -13,9 +14,7 @@
 
 I've come to realize that I am an incredible force. Being a prisoner and accomplishing all I do verifies my ability to get things done when the need arises. I'm released anytime between now and March of 2025 depending on the circumstances of my release. I can work remotely in this facility and if you are interested in hiring me, please reach out to me or my current housing facility.    
 
-🔭  I’m currently working on building and deploying a networking site for Maine prisoner    
-reentry resource advocates to be able to connect and collaborate. I'm looking for some help    
-building the site if you are interested check out the [Reentry Repo](https://github.com/4-Leafs-Code/Reentry).
+🔭  I’m currently working on building and deploying a networking site for Maine prisoner reentry resource advocates to be able to connect and collaborate. I'm looking for some help building the site if you are interested check out the [Reentry Repo](https://github.com/4-Leafs-Code/Reentry).
 
 I am the owner of [FearlessTech](https://github.com/FearlessTech), a Computer Technology student and I have a Mentorship from [Project Reclass.](https://www.projectreclass.org/). 
 

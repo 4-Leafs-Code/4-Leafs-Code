@@ -38,7 +38,7 @@ I am the owner of [FearlessTech](https://github.com/FearlessTech), a Computer Te
 | ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) ![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
 | 🕓 Version Control | 
 | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) |
-|  **Note:** I'm not suggesting I am an expert in any of the above topics but I have effectivly worked with each of them. I am always learning new things and excelling with the tools I using at that moment. |
+|  **Note:** I'm not suggesting I am an expert in any of the above topics but I have effectivly worked with each of them. I am always learning new things and excelling with the tools I using at that moment. I only started to learn to program around March of 2022|
 
 
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
@@ -63,7 +63,6 @@ I am the owner of [FearlessTech](https://github.com/FearlessTech), a Computer Te
 
 
 
-<details>
  <summary> :octocat: GitHub Statistics</summary>
  
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
@@ -73,6 +72,5 @@ I am the owner of [FearlessTech](https://github.com/FearlessTech), a Computer Te
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4-Leafs-Code&hide=html&layout=compact&theme=highcontrast" />
  </div>
  
- </details>
 
 ![](https://hit.yhype.me/github/profile?user_id=105990331)

@@ -22,7 +22,15 @@ I am the owner of [FearlessTech](https://github.com/FearlessTech), a Computer Te
 
 |  |  |  |
 | :---         |     :---:      |          ---: |  
-| <img align='left' height='160' style="margin:20px" src='assets/codingChick.gif' alt='Skills'> | .                                          .   | <h2>Skills</h2> |
+| <img align='left' height='160' style="margin:20px" src='assets/codingChick.gif' alt='Skills'> | | <h2>Skills</h2> |  
+|📝 Blog  | 🌐 Browsers | 📂 Cloud Storage |  
+|![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)|![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) | ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) ![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4) | |
+|💾 Databases | | |
+|![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) |![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
+| | | |
+| | | |
+
+
 
 
 <p align="center">

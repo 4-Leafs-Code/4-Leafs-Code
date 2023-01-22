@@ -20,10 +20,18 @@ I am the owner of [FearlessTech](https://github.com/FearlessTech), a Computer Te
 
 <br>
 
-|  |  |  |
-| :---         |     :---:      |          ---: |  
-| <img align='left' height='160' style="margin:20px" src='assets/codingChick.gif' alt='Skills'> | | <h2>Skills</h2> |  
+<div align="center" >  
+    <img align='left' height='160' style="margin:20px" src='assets/codingChick.gif' alt='Skills'> 
+</div>
+  
+  <div>
+    <h2>My Skill</h2>   
+  </div>
 
+
+
+<br>   
+<br>  
 
 | 💻 IDEs/Editors |
 |     :---:      |
@@ -54,15 +62,6 @@ I am the owner of [FearlessTech](https://github.com/FearlessTech), a Computer Te
 </p>
 
 
-
-
-
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
-
-
-
  <summary> :octocat: GitHub Statistics</summary>
  
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
@@ -72,5 +71,6 @@ I am the owner of [FearlessTech](https://github.com/FearlessTech), a Computer Te
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4-Leafs-Code&hide=html&layout=compact&theme=highcontrast" />
  </div>
  
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
 ![](https://hit.yhype.me/github/profile?user_id=105990331)

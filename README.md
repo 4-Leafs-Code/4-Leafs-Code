@@ -20,11 +20,10 @@ I am the owner of [FearlessTech](https://github.com/FearlessTech), a Computer Te
 
 <br>
 
-<img align='left' height='160' style="margin:20px" src='assets/codingChick.gif' alt='Skills'>
+|  |  |  |
+| :---         |     :---:      |          ---: |  
+| <img align='left' height='160' style="margin:20px" src='assets/codingChick.gif' alt='Skills'> | .                                          .   | <h2>Skills</h2> |
 
-<br>
-<br>
-<h2>.   Skills</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">

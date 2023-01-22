@@ -21,17 +21,12 @@ I am the owner of [FearlessTech](https://github.com/FearlessTech), a Computer Te
 <br>
 
 <div align="center" >  
-    <img align='left' height='160' style="margin:20px" src='assets/codingChick.gif' alt='Skills'> 
-</div>
-  
-  <div>
-    <h2>My Skill</h2>   
-  </div>
+    <img height='160' style="margin:20px" src='assets/codingChick.gif' alt='Skills'> 
+</div>  
 
-
-
-<br>   
 <br>  
+
+## My Skill 
 
 | 💻 IDEs/Editors |
 |     :---:      |
@@ -49,7 +44,16 @@ I am the owner of [FearlessTech](https://github.com/FearlessTech), a Computer Te
 |  **Note:** I'm not suggesting I am an expert in any of the above topics but I have effectivly worked with each of them. I am always learning new things and excelling with the tools I using at that moment. I only started to learn to program around March of 2022|
 
 
-<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
+ <summary> :octocat: GitHub Statistics</summary>
+ 
+ ![](./profile-3d-contrib/profile-night-rainbow.svg)
+ 
+  <div align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=4-Leafs-Code&show_icons=true&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4-Leafs-Code&hide=html&layout=compact&theme=highcontrast" />
+ </div>
+ 
+ <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
 
 <p align="center">
     
@@ -60,16 +64,6 @@ I am the owner of [FearlessTech](https://github.com/FearlessTech), a Computer Te
         <img src="https://img.shields.io/github/followers/4-Leafs-Code?label=Followers&style=social" alt="GitHub Badge">
     </a>
 </p>
-
-
- <summary> :octocat: GitHub Statistics</summary>
- 
- ![](./profile-3d-contrib/profile-night-rainbow.svg)
- 
-  <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=4-Leafs-Code&show_icons=true&theme=highcontrast" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4-Leafs-Code&hide=html&layout=compact&theme=highcontrast" />
- </div>
  
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 

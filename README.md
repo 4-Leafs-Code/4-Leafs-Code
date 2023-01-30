@@ -16,7 +16,7 @@ I've come to realize that I am an incredible force. Being a prisoner and accompl
 
 🔭  I’m currently working on building and deploying a networking site for Maine prisoner reentry resource advocates to be able to connect and collaborate. I'm looking for some help building the site if you are interested check out the [Reentry Repo](https://github.com/FearlessTech/Reentry).
 
-I am the owner of [FearlessTech](https://github.com/FearlessTech) and a Computer Technology student. 
+I am a Computer Technology student and the Co-Owner of [FearlessTech](https://github.com/FearlessTech). We welcome and are OPEN TO ALL, including UI/UX designers, developers, testers, and beyond to participate in creating social impact products. Our goal is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. We are all very friendly and love to learn and teach new ideas. You are inviteted to join us in our discussions! Feel free to [Pitch a Project](https://github.com/orgs/FearlessTech/discussions/3) or [Request Membership](https://github.com/orgs/FearlessTech/discussions/4) to FearlessTech in our open discussions. You could just stop in to say Hi! 
 
 Fun Fact about Me: I absolutely love and idolize Elon Musk. If you dont then watch [this](https://www.youtube.com/watch?v=I9D4ifGzndY).
 

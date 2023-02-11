@@ -18,6 +18,8 @@ I've come to realize that I am an incredible force. Being a prisoner and accompl
 
 I am a Computer Technology student and the Co-Owner of [FearlessTech](https://github.com/FearlessTech). We welcome and are OPEN TO ALL, including UI/UX designers, developers, testers, and beyond to participate in creating social impact products. Our goal is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. We are all very friendly and love to learn and teach new ideas. You are inviteted to join us in our discussions! Feel free to [Pitch a Project](https://github.com/orgs/FearlessTech/discussions/3) or [Request Membership](https://github.com/orgs/FearlessTech/discussions/4) to FearlessTech in our open discussions. You could just stop in to say Hi! 
 
+<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
+
 Fun Fact about Me: I absolutely love and idolize Elon Musk. If you dont then watch [this](https://www.youtube.com/watch?v=I9D4ifGzndY).
 
 <br>
@@ -25,6 +27,7 @@ Fun Fact about Me: I absolutely love and idolize Elon Musk. If you dont then wat
 <div align="center" >  
     <img height='160' style="margin:20px" src='assets/codingChick.gif' alt='Skills'> 
 </div>  
+
 
 <br>  
 
@@ -44,6 +47,8 @@ Fun Fact about Me: I absolutely love and idolize Elon Musk. If you dont then wat
 | 🕓 Version Control | 
 | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) |
 |  **Note:** I'm not suggesting I am an expert in any of the above topics but I have effectivly worked with each of them. I am always learning new things and excelling with the tools I using at that moment. I only started to learn to program around March of 2022|
+
+
 
 
  <summary> :octocat: GitHub Statistics</summary>

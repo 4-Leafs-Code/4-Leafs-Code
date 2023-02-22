@@ -1,27 +1,114 @@
-<div>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient"/>
+<!--- Follows and Views --->
+<div width="100%" align="center">    
+  <a align="left" href="https://github.com/4-Leafs-Code/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=4-Leafs-Code"></a>
+  <img scr="" width="74%"/>
+  <a align="right" href="https://github.com/4-Leafs-Code?tab=followers"><img src="https://img.shields.io/github/followers/4-Leafs-Code?label=Followers&style=social" alt="GitHub Badge"></a>
 </div>
-
+<!--- --->
+<div align="center">
+  <img src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+</div>
+<!--- Typewriter --->
 <div align="center" >  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=50&duration=4500&pause=1000&color=6B00FF&center=true&vCenter=true&width=835&height=60&lines=Hi!;I+am+Clover+Baxter;I'm+4+Leafs+Code;I'm+a+Co-Owner+of+FearlessTech;I'm+a+Jr+Full+Stack+Developer;I'm+a+Computer+Tech+Student;I'm+a+Prisoner+in+Maine%2C+USA;I+am+Availible+for+Hire" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=50&duration=4500&pause=1000&color=6B00FF&center=true&vCenter=true&width=835&height=60&lines=Hi!;I'm+Clover+Baxter;I'm+4+Leafs+Code;I'm+Co-Owner+of+FearlessTech;I'm+Co-Owner+of+RC's+Web+Studio;I'm+a+Full+Stack+Developer;I'm+a+Computer+Tech+Student;I'm+a+Prisoner+in+Maine%2C+USA;I+am+Availible+for+Hire" alt="Typing SVG" /></a>
 </div>
+<!--- --->
+<div align="center">
+  <img src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+</div>
+<br />
+<!---For Hire --->
 <div align="center" > 
   <h1>Luck = [Doing Things] * [Telling People]</h1>
 </div>
-
-### :man_technologist: I'm 4-Leafs-Code and I'm interested in Web and Software development. 
-### I'm also Clover Baxter and a Prisoner at Maine Correctional Center in Maine, U.S.A.
-
+<br />
+<!--- --->
 I've come to realize that I am an incredible force. Being a prisoner and accomplishing all I do verifies my ability to get things done when the need arises. I'm released anytime between now and March of 2025 depending on the circumstances of my release. I can work remotely in this facility and if you are interested in hiring me, please reach out to me or my current housing facility.    
 
-🔭  I’m currently working on building and deploying a networking site for Maine prisoner reentry resource advocates to be able to connect and collaborate. I'm looking for some help building the site if you are interested check out the [Reentry Repo](https://github.com/FearlessTech/Reentry).
+<!--- past work --->
 
-I am a Computer Technology student and the Co-Owner of [FearlessTech](https://github.com/FearlessTech). We welcome and are OPEN TO ALL, including UI/UX designers, developers, testers, and beyond to participate in creating social impact products. Our goal is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. We are all very friendly and love to learn and teach new ideas. You are inviteted to join us in our discussions! Feel free to [Pitch a Project](https://github.com/orgs/FearlessTech/discussions/3) or [Request Membership](https://github.com/orgs/FearlessTech/discussions/4) to FearlessTech in our open discussions. You could just stop in to say Hi! 
+<div align="center" ><h3>Some of My Work:</h3></div>
+<div align="center">
+  <table>
+    <tr>
+      <th><h3>Demo Sites:</h3></th>
+      <th><h3>Portfolios:</h3></th>
+      <th><h3>Applications:</h3></th>
+      <th><h3>Cutest AI:</h3></th>
+    </tr>
+    <tr>
+      <td width="300px">
+        <ul>
+          <li><a href="https://4-leafs-code.github.io/ResponsiveRestaurant/">Responsive Restaurant</a></li>
+          <li><a href="https://4-leafs-code.github.io/Gym1/">Fitness Gym</a></li>
+          <li><a href="https://4-leafs-code.github.io/MCCWRS/">MCCWRS</a></li>
+          <li><a href="https://fearlesstech.github.io/">FearlessTech</a></li>
+        </ul>
+      </td>
+      <td width="300px">
+        <ul>
+          <li><a href="https://4-leafs-code.github.io/">First Portfolio</a></li>
+          <li><a href="https://4-leafs-code.github.io/PortfolioSite/">Current Project</a></li>
+        </ul>
+      </td>
+      <td width="300px">
+        <ul>
+          <li><a href="https://4-leafs-code.github.io/battlegame/">Mega Man vs Samus</a></li>
+          <li><a href="https://4-leafs-code.github.io/COVID-19-TRACKER/">Covid-19 Tracker</a></li>
+          <li><a href="https://4-leafs-code.github.io/RacingCars/">Racing Cars</a></li>
+        </ul>
+      </td>
+      <td>
+        <img align="right" alt="Coding" width="300" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif" />
+      </td>
+    </tr>
+  </table>
+</div>
+<br/>
+<!--- FearlessTech --->
+<div align="center">
+  <img src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+</div>
+<br />
 
-<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
+## I am the founder and a Co-Owner of [FearlessTech](https://github.com/FearlessTech). 
+We welcome and are OPEN TO ALL, including UI/UX designers, developers, testers, and beyond to participate in creating social impact products.
 
-Fun Fact about Me: I absolutely love and idolize Elon Musk. If you dont then watch [this](https://www.youtube.com/watch?v=I9D4ifGzndY).
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/718/296/datas/original.png" width="150">
+    </td>
+    <td>
+    <h3>💖Become a part of the FearlessTech💖</h3>
+    <a href="https://github.com/FearlessTech/.github/issues/new?assignees=&labels=welcome&template=invitation.yml&title=Please+invite+me+to+FearlessTech" alt="join_us">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-JOIN%20US-green?style=for-the-badge&logo=github" width="150"></a>
+    </td>
+    <td>
+      <img align="left" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/718/296/datas/original.png" width="150">
+    </td>
+  </tr>
+</table>
 
+:octocat: I’m currently working on building and deploying a networking site for Maine prisoner reentry resource advocates to be able to connect and collaborate. I'm looking for some help building the site if you are interested check out the [Reentry Repo](https://github.com/FearlessTech/Reentry).
+<!--- --->
+<div align="center">
+  <img src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+</div>
+<br />
+
+
+<!--- --->
+<div align="center">
+  <img src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+</div>
+
+
+Fun Fact about Me: I absolutely love and idolize Elon Musk. If you dont then watch [this](https://www.youtube.com/watch?v=I9D4ifGzndY).  
+
+<!--- --->
+<div align="center">
+  <img src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+</div>
 <br>
 
 <div align="center" >  
@@ -49,56 +136,29 @@ Fun Fact about Me: I absolutely love and idolize Elon Musk. If you dont then wat
 |  **Note:** I'm not suggesting I am an expert in any of the above topics but I have effectivly worked with each of them. I am always learning new things and excelling with the tools I using at that moment. I only started to learn to program around March of 2022|
 
 
+<!--- --->
+<div align="center">
+  <img src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+</div>
 
-
- <summary> :octocat: GitHub Statistics</summary>
+ ## :octocat: GitHub Statistics
  
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
  
-  <div align="center">
+<div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=4-Leafs-Code&show_icons=true&theme=highcontrast" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4-Leafs-Code&hide=html&layout=compact&theme=highcontrast" />
- </div>
+</div>
  
- <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
+<!--- --->
+<div align="center">
+  <img src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+</div>
 
-<p align="center">
-    
-<a href="https://github.com/4-Leafs-Code/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=4-Leafs-Code">
-</a>
-    <a href="https://github.com/4-Leafs-Code?tab=followers">
-        <img src="https://img.shields.io/github/followers/4-Leafs-Code?label=Followers&style=social" alt="GitHub Badge">
-    </a>
-</p>
- 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
+
 
 ![](https://hit.yhype.me/github/profile?user_id=105990331)
 
-
-## My Project Pages
-
-https://4-leafs-code.github.io/ResponsiveRestaurant/
-
-https://4-leafs-code.github.io/battlegame/
-
-https://4-leafs-code.github.io/Gym1/
-
-https://4-leafs-code.github.io/COVID-19-TRACKER/
-
-https://4-leafs-code.github.io/RacingCars/
-
-https://4-leafs-code.github.io/MCCWRS/
-
-## My PortFolios under construction
-
-https://4-leafs-code.github.io/
-
-https://4-leafs-code.github.io/PortfolioSite/
-
-#### Just a React js App Deployed  
-https://4-leafs-code.github.io/play/
 
 
 

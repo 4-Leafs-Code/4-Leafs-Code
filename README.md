@@ -1,7 +1,7 @@
 <!--- Follows and Views --->
 <div width="100%" align="center">    
   <a align="left" href="https://github.com/4-Leafs-Code/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=4-Leafs-Code"></a>
-  <img scr="" width="50%"/>
+  <img width="600" height="0">
   <a align="right" href="https://github.com/4-Leafs-Code?tab=followers"><img src="https://img.shields.io/github/followers/4-Leafs-Code?label=Followers&style=social" alt="GitHub Badge"></a>
 </div>
 

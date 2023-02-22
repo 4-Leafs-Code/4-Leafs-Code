@@ -107,12 +107,12 @@ We welcome and are OPEN TO ALL, including UI/UX designers, developers, testers, 
 <br />
 
 <!--- Fun Fact --->
-<div align="center" width="100%" >
+<div align="center"  >
   <table>
     <tr>
-      <td width="150"><img align="left" src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/elondance.gif" width="150px"></td>
-      <td width="350"><p>Fun Fact about Me: I absolutely love and idolize Elon Musk. If you dont then watch <a href="https://www.youtube.com/watch?v=I9D4ifGzndY">this</a>.</p></td>
-      <td width="150"><img align="left" src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/elonhaha.gif" width="150px"></td>
+      <td width="300px"><img align="left" src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/elondance.gif"></td>
+      <td width="300px"><p>Fun Fact about Me:</p><p>I absolutely love and idolize Elon Musk. If you dont then watch <a href="https://www.youtube.com/watch?v=I9D4ifGzndY">this</a>.</p></td>
+      <td width="300px"><img align="left" src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/elonhaha.gif"></td>
     </tr>
   </table>
 </div>

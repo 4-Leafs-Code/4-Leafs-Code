@@ -21,13 +21,21 @@
 <br />
 
 <!---For Hire --->
-<div align="center" > 
-  <h1>Luck = [Doing Things] * [Telling People]</h1>
-</div>
+<div align="center" ><h1>Luck = [Doing Things] * [Telling People]</h1></div>
 <br />
+<div align="center" >
+  <table>
+    <tr>
+      <td><img align="left" src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/Hire.png" width="150"></td>
+      <td width="400">
+      <p>I've come to realize that I am an incredible force. Being a prisoner and accomplishing all I do verifies my ability to get things done when the need arises. I'm released anytime between now and March of 2025 depending on the circumstances of my release.</p>
+      <p>I can work remotely in this facility and if you are interested in hiring me, please reach out to me or my current housing facility.</p>
+      </td>
+      <td><img align="left" src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/Hire.png" width="150"></td>
+    </tr>
+  </table>
+</div>
 
-<!--- --->
-I've come to realize that I am an incredible force. Being a prisoner and accomplishing all I do verifies my ability to get things done when the need arises. I'm released anytime between now and March of 2025 depending on the circumstances of my release. I can work remotely in this facility and if you are interested in hiring me, please reach out to me or my current housing facility.    
 
 <!--- past work --->
 
@@ -76,32 +84,40 @@ I've come to realize that I am an incredible force. Being a prisoner and accompl
 
 ## I am the founder and a Co-Owner of [FearlessTech](https://github.com/FearlessTech). 
 We welcome and are OPEN TO ALL, including UI/UX designers, developers, testers, and beyond to participate in creating social impact products.
+<div align="center" >
+  <table>
+    <tr>
+      <td>
+        <img align="left" src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/Fearless.png" width="150">
+      </td>
+      <td>
+      <h3>💖Become a part of the FearlessTech💖</h3>
+      <a href="https://github.com/FearlessTech/.github/issues/new?assignees=&labels=welcome&template=invitation.yml&title=Please+invite+me+to+FearlessTech" alt="join_us">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-JOIN%20US-green?style=for-the-badge&logo=github" width="150"></a>
+      </td>
+      <td>
+        <img align="left" src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/Fearless.png" width="150">
+      </td>
+    </tr>
+  </table>
+</div>
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/Fearless.png" width="150">
-    </td>
-    <td>
-    <h3>💖Become a part of the FearlessTech💖</h3>
-    <a href="https://github.com/FearlessTech/.github/issues/new?assignees=&labels=welcome&template=invitation.yml&title=Please+invite+me+to+FearlessTech" alt="join_us">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-JOIN%20US-green?style=for-the-badge&logo=github" width="150"></a>
-    </td>
-    <td>
-      <img align="left" src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/Fearless.png" width="150">
-    </td>
-  </tr>
-</table>
-
-:octocat: I’m currently working on building and deploying a networking site for Maine prisoner reentry resource advocates to be able to connect and collaborate. I'm looking for some help building the site if you are interested check out the [Reentry Repo](https://github.com/FearlessTech/Reentry).
+:octocat: I’m currently working on building and deploying a networking site for Maine prisoner reentry resource advocates to be able to connect and collaborate. I'm looking for some help building the site if you are interested check out the [Reentry Repo](https://github.com/FearlessTech/Reentry).:octocat:
 <!--- RainbowIMG --->
 <div align="center"><img src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%"></div>
 <br />
 
+<!--- Fun Fact --->
+<div align="center" width="100%" >
+  <table>
+    <tr>
+      <td width="150"><img align="left" src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/elondance.gif" width="150px"></td>
+      <td width="350"><p>Fun Fact about Me: I absolutely love and idolize Elon Musk. If you dont then watch <a href="https://www.youtube.com/watch?v=I9D4ifGzndY">this</a>.</p></td>
+      <td width="150"><img align="left" src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/elonhaha.gif" width="150px"></td>
+    </tr>
+  </table>
+</div>
 
-\
-https://giphy.com/clips/justin-VGQ4Me1CAn5r1hmYlZ
 
-Fun Fact about Me: I absolutely love and idolize Elon Musk. If you dont then watch [this](https://www.youtube.com/watch?v=I9D4ifGzndY).  
 <br />
 <!--- GitHub Stats --->
 <!--- RainbowIMG --->

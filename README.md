@@ -1,24 +1,23 @@
+<!--- RainbowIMG --->
+<div align="center"><img src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%"></div>
+<!--- RainbowIMG --->
+<div align="center"><img src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%"></div>
+<br />
 <!--- Follows and Views --->
 <div width="100%" align="center">    
   <a align="left" href="https://github.com/4-Leafs-Code/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=4-Leafs-Code"></a>
-  <img width="400" height="0">
+  <img width="420" height="0">
   <a align="right" href="https://github.com/4-Leafs-Code?tab=followers"><img src="https://img.shields.io/github/followers/4-Leafs-Code?label=Followers&style=social" alt="GitHub Badge"></a>
 </div>
-
-<!--- --->
-<div align="center">
-  <img src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
-</div>
-
+<br />
+<br />
 <!--- Typewriter --->
 <div align="center" >  
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=50&duration=4500&pause=1000&color=6B00FF&center=true&vCenter=true&width=835&height=60&lines=Hi!;I'm+Clover+Baxter;I'm+4+Leafs+Code;I'm+Co-Owner+of+FearlessTech;I'm+Co-Owner+of+RC's+Web+Studio;I'm+a+Full+Stack+Developer;I'm+a+Computer+Tech+Student;I'm+a+Prisoner+in+Maine%2C+USA;I+am+Availible+for+Hire" alt="Typing SVG" /></a>
 </div>
-
-<!--- --->
-<div align="center">
-  <img src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
-</div>
+<br />
+<!--- RainbowIMG --->
+<div align="center"><img src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%"></div>
 <br />
 
 <!---For Hire --->
@@ -71,9 +70,8 @@ I've come to realize that I am an incredible force. Being a prisoner and accompl
 </div>
 <br/>
 <!--- FearlessTech --->
-<div align="center">
-  <img src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
-</div>
+<!--- RainbowIMG --->
+<div align="center"><img src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%"></div>
 <br />
 
 ## I am the founder and a Co-Owner of [FearlessTech](https://github.com/FearlessTech). 
@@ -95,19 +93,19 @@ We welcome and are OPEN TO ALL, including UI/UX designers, developers, testers, 
 </table>
 
 :octocat: I’m currently working on building and deploying a networking site for Maine prisoner reentry resource advocates to be able to connect and collaborate. I'm looking for some help building the site if you are interested check out the [Reentry Repo](https://github.com/FearlessTech/Reentry).
-<!--- --->
-<div align="center">
-  <img src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
-</div>
+<!--- RainbowIMG --->
+<div align="center"><img src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%"></div>
 <br />
 
+
+\
+https://giphy.com/clips/justin-VGQ4Me1CAn5r1hmYlZ
 
 Fun Fact about Me: I absolutely love and idolize Elon Musk. If you dont then watch [this](https://www.youtube.com/watch?v=I9D4ifGzndY).  
 <br />
 <!--- GitHub Stats --->
-<div align="center">
-  <img src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
-</div>
+<!--- RainbowIMG --->
+<div align="center"><img src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%"></div>
 
  ## :octocat: GitHub Statistics
  
@@ -118,10 +116,8 @@ Fun Fact about Me: I absolutely love and idolize Elon Musk. If you dont then wat
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4-Leafs-Code&hide=html&layout=compact&theme=highcontrast" />
 </div>
  
-<!--- --->
-<div align="center">
-  <img src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
-</div>
+<!--- RainbowIMG --->
+<div align="center"><img src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%"></div>
 <br />
 
 <!--- Skills --->
@@ -153,6 +149,11 @@ Fun Fact about Me: I absolutely love and idolize Elon Musk. If you dont then wat
 | 🕓 Version Control | 
 | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) |
 |  **Note:** I'm not suggesting I am an expert in any of the above topics but I have effectivly worked with each of them. I am always learning new things and excelling with the tools I using at that moment. I only started to learn to program around March of 2022|
+
+<!--- RainbowIMG --->
+<div align="center"><img src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%"></div>
+<!--- RainbowIMG --->
+<div align="center"><img src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%"></div>
 
 <!--- yhype --->
 ![](https://hit.yhype.me/github/profile?user_id=105990331)

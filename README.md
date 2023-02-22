@@ -1,27 +1,32 @@
 <!--- Follows and Views --->
 <div width="100%" align="center">    
   <a align="left" href="https://github.com/4-Leafs-Code/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=4-Leafs-Code"></a>
-  <img scr="" width="74%"/>
+  <img scr="" width="50%"/>
   <a align="right" href="https://github.com/4-Leafs-Code?tab=followers"><img src="https://img.shields.io/github/followers/4-Leafs-Code?label=Followers&style=social" alt="GitHub Badge"></a>
 </div>
+
 <!--- --->
 <div align="center">
   <img src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
 </div>
+
 <!--- Typewriter --->
 <div align="center" >  
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=50&duration=4500&pause=1000&color=6B00FF&center=true&vCenter=true&width=835&height=60&lines=Hi!;I'm+Clover+Baxter;I'm+4+Leafs+Code;I'm+Co-Owner+of+FearlessTech;I'm+Co-Owner+of+RC's+Web+Studio;I'm+a+Full+Stack+Developer;I'm+a+Computer+Tech+Student;I'm+a+Prisoner+in+Maine%2C+USA;I+am+Availible+for+Hire" alt="Typing SVG" /></a>
 </div>
+
 <!--- --->
 <div align="center">
   <img src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
 </div>
 <br />
+
 <!---For Hire --->
 <div align="center" > 
   <h1>Luck = [Doing Things] * [Telling People]</h1>
 </div>
 <br />
+
 <!--- --->
 I've come to realize that I am an incredible force. Being a prisoner and accomplishing all I do verifies my ability to get things done when the need arises. I'm released anytime between now and March of 2025 depending on the circumstances of my release. I can work remotely in this facility and if you are interested in hiring me, please reach out to me or my current housing facility.    
 
@@ -77,14 +82,14 @@ We welcome and are OPEN TO ALL, including UI/UX designers, developers, testers, 
 <table>
   <tr>
     <td>
-      <img align="left" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/718/296/datas/original.png" width="150">
+      <img align="left" src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/Fearless.png" width="150">
     </td>
     <td>
     <h3>💖Become a part of the FearlessTech💖</h3>
     <a href="https://github.com/FearlessTech/.github/issues/new?assignees=&labels=welcome&template=invitation.yml&title=Please+invite+me+to+FearlessTech" alt="join_us">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-JOIN%20US-green?style=for-the-badge&logo=github" width="150"></a>
     </td>
     <td>
-      <img align="left" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/718/296/datas/original.png" width="150">
+      <img align="left" src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/Fearless.png" width="150">
     </td>
   </tr>
 </table>
@@ -111,14 +116,23 @@ Fun Fact about Me: I absolutely love and idolize Elon Musk. If you dont then wat
 </div>
 <br>
 
-<div align="center" >  
-    <img height='160' style="margin:20px" src='assets/codingChick.gif' alt='Skills'> 
-</div>  
 
 
 <br>  
+<table>
+  <tr>
+    <td>
+      <img height='120' src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/tech.gif" alt='Skills'> 
+    </td>
+    <td width="300px">
+      <h1>My Skills</h1>
+    </td>
+    <td>
+      <img height='1200' src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/tech.gif" alt='Skills'> 
+    </td>
+  </tr>
+</table>
 
-## My Skill 
 
 | 💻 IDEs/Editors |
 |     :---:      |

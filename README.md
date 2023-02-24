@@ -175,5 +175,9 @@ We welcome and are OPEN TO ALL, including UI/UX designers, developers, testers, 
 ![](https://hit.yhype.me/github/profile?user_id=105990331)
 
 <!---
-we are bonded before we even met, before were even born, before the names, before the words, before the mans, before the world exists, we are bonded, from the moment i wake up, untill the moment i close my eyes and even when i close them, youre still there, your ressoning voice, your singing, me encanta.and Its all dust, the doubt, the fears, the chains, the pains, the tears, those are only of happiness now. I dont need to think how, i just need to think of you. and its all worthing.
+2/20/23 we are bonded before we even met, before were even born, before the names, before the words, before the mans, before the world exists, we are bonded, from the moment i wake up, untill the moment i close my eyes and even when i close them, youre still there, your ressoning voice, your singing, me encanta.and Its all dust, the doubt, the fears, the chains, the pains, the tears, those are only of happiness now. I dont need to think how, i just need to think of you. and its all worthing.
+
+2/24/23 our love is like the sea that reflects the sky on a starry day and on a rainy day, the distance between them only enhances the splendor of the existence of the two, who love each other from afar and even so feel the touch reflected on each other's surface
+
+
 --->

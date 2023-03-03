@@ -180,10 +180,4 @@ We welcome and are OPEN TO ALL, including UI/UX designers, developers, testers, 
 2/20/23 we are bonded before we even met, before were even born, before the names, before the words, before the mans, before the world exists, we are bonded, from the moment i wake up, untill the moment i close my eyes and even when i close them, youre still there, your ressoning voice, your singing, me encanta.and Its all dust, the doubt, the fears, the chains, the pains, the tears, those are only of happiness now. I dont need to think how, i just need to think of you. and its all worthing.
 
 2/24/23 our love is like the sea that reflects the sky on a starry day and on a rainy day, the distance between them only enhances the splendor of the existence of the two, who love each other from afar and even so feel the touch reflected on each other's surface
-
-Family
-https://w2g.tv/room/?room_id=dx0dhf7k7whs6mt2rj
-
-Playlist
-https://w2g.tv/room/?room_id=142hjo0x4juar69tc7
 --->

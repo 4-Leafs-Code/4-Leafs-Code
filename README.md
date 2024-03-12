@@ -28,8 +28,8 @@
     <tr>
       <td><img align="left" src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/Hire.png" width="150"></td>
       <td width="400">
-      <p>I've come to realize that I am an incredible force. Being a prisoner and accomplishing all I do verifies my ability to get things done when the need arises. I'm released anytime between now and March of 2025 depending on the circumstances of my release.</p>
-      <p>I can work remotely in this facility and if you are interested in hiring me, please reach out to me or my current housing facility.</p>
+      <p>I've come to realize that I am an incredible force. Being a prisoner and accomplishing all I do verifies my ability to get things done when the need arises. I've just released on 3/4/24.</p>
+      <p>I can work remotely and if you are interested in hiring me, please reach out to me through my email, CloverSueBaxter@gmail.com </p>
       </td>
       <td><img align="left" src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/Hire.png" width="150"></td>
     </tr>
